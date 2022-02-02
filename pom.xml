@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <postgresql>42.2.4</postgresql>
+        <postgresql>42.2.25</postgresql>
         <orika.core>1.5.4</orika.core>
         <ehcache>3.7.1</ehcache>
         <dbUrl>jdbc:postgresql://localhost:5432/ContractorsDirectory</dbUrl>
