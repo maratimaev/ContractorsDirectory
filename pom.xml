@@ -17,7 +17,7 @@
         <dbUsername>postgres</dbUsername>
         <dbPassword>Zz123456</dbPassword>
         <apache.commons>3.9</apache.commons>
-        <swagger>2.9.2</swagger>
+        <swagger>2.10.0</swagger>
     </properties>
 
     <parent>
